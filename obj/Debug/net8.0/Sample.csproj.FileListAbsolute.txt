@@ -1,0 +1,14 @@
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.GeneratedMSBuildEditorConfig.editorconfig
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.AssemblyInfoInputs.cache
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.AssemblyInfo.cs
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.csproj.CoreCompileInputs.cache
+/home/roshan/Desktop/csharp/Sample/bin/Debug/net8.0/Sample
+/home/roshan/Desktop/csharp/Sample/bin/Debug/net8.0/Sample.deps.json
+/home/roshan/Desktop/csharp/Sample/bin/Debug/net8.0/Sample.runtimeconfig.json
+/home/roshan/Desktop/csharp/Sample/bin/Debug/net8.0/Sample.dll
+/home/roshan/Desktop/csharp/Sample/bin/Debug/net8.0/Sample.pdb
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.dll
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/refint/Sample.dll
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.pdb
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/Sample.genruntimeconfig.cache
+/home/roshan/Desktop/csharp/Sample/obj/Debug/net8.0/ref/Sample.dll
